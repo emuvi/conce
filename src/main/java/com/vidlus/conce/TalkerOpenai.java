@@ -26,7 +26,7 @@ public class TalkerOpenai implements Talker {
         messages.add(new Message("user", command));
         Request requestBody = new Request(Setup.getOpenaiModel().code(), messages);
 
-        String apiKey = WizEnv.get("CHARVS_KNOW_OPENAI_API_KEY", "");
+        String apiKey = WizEnv.get("CONCE_KNOW_OPENAI_API_KEY", "");
         String url = "https://api.openai.com/v1/chat/completions";
 
         HttpRequest request = HttpRequest.newBuilder()

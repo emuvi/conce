@@ -11,17 +11,17 @@ import br.com.pointel.jarch.mage.WizEnv;
 public class RefBaseFTP implements RefBase {
 
 
-    public final String BASE_FTP_URI = WizEnv.get("CHARVS_KNOW_REFS_BASE_FTP_URI", "https://urvs.com.br/");
-    public final String BASE_FTP_REFS = WizEnv.get("CHARVS_KNOW_REFS_BASE_FTP_FOLDER", "Conhecer/+ Refs/");
-    public final String BASE_FTP_INSIDE = WizEnv.get("CHARVS_KNOW_REFS_BASE_FTP_INSIDE", "public_html/");
+    public final String BASE_FTP_URI = WizEnv.get("CONCE_KNOW_REFS_BASE_FTP_URI", "https://urvs.com.br/");
+    public final String BASE_FTP_REFS = WizEnv.get("CONCE_KNOW_REFS_BASE_FTP_FOLDER", "Conhecer/+ Refs/");
+    public final String BASE_FTP_INSIDE = WizEnv.get("CONCE_KNOW_REFS_BASE_FTP_INSIDE", "public_html/");
     public final String BASE_FTP_URI_REFS = BASE_FTP_URI + BASE_FTP_REFS;
 
 
     private final FTP ftp = new FTP(
-        WizEnv.get("CHARVS_KNOW_REFS_BASE_FTP_HOST", "ftp.urvs.com.br"),
-        WizEnv.get("CHARVS_KNOW_REFS_BASE_FTP_PORT", 21),
-        WizEnv.get("CHARVS_KNOW_REFS_BASE_FTP_USER", "urvs1"),
-        WizEnv.get("CHARVS_KNOW_REFS_BASE_FTP_PASS", ""));
+        WizEnv.get("CONCE_KNOW_REFS_BASE_FTP_HOST", "ftp.urvs.com.br"),
+        WizEnv.get("CONCE_KNOW_REFS_BASE_FTP_PORT", 21),
+        WizEnv.get("CONCE_KNOW_REFS_BASE_FTP_USER", "urvs1"),
+        WizEnv.get("CONCE_KNOW_REFS_BASE_FTP_PASS", ""));
 
     @Override
     public void upload(File origin) throws Exception {

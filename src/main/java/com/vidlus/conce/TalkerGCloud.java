@@ -39,7 +39,7 @@ public class TalkerGCloud implements Talker {
 
         // To get the access token, run the following command in your terminal:
         // gcloud auth print-access-token
-        String accessToken = WizEnv.get("CHARVS_KNOW_GCLOUD_API_KEY", "");
+        String accessToken = WizEnv.get("CONCE_KNOW_GCLOUD_API_KEY", "");
 
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(url))

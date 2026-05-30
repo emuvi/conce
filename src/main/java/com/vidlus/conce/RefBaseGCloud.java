@@ -15,8 +15,8 @@ import br.com.pointel.jarch.mage.WizEnv;
 
 public class RefBaseGCloud implements RefBase {
 
-    private final String BUCKET_NAME = WizEnv.get("CHARVS_KNOW_REFS_BASE_GCLOUD_BUCKET", "");
-    private final String ACCESS_TOKEN = WizEnv.get("CHARVS_KNOW_REFS_BASE_GCLOUD_API_KEY", "");
+    private final String BUCKET_NAME = WizEnv.get("CONCE_KNOW_REFS_BASE_GCLOUD_BUCKET", "");
+    private final String ACCESS_TOKEN = WizEnv.get("CONCE_KNOW_REFS_BASE_GCLOUD_API_KEY", "");
 
     private final HttpClient httpClient = HttpClient.newHttpClient();
 

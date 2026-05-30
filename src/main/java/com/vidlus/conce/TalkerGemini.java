@@ -35,7 +35,7 @@ public class TalkerGemini implements Talker {
         contents.add(new Content(parts, "user"));
         var requestBody = new Request(contents);
 
-        String apiKey = WizEnv.get("CHARVS_KNOW_GENAI_API_KEY", "");
+        String apiKey = WizEnv.get("CONCE_KNOW_GENAI_API_KEY", "");
         String url = "https://generativelanguage.googleapis.com/v1beta/models/" + Setup.getGenaiModel().code()
                 + ":generateContent?key=" + apiKey;
 
