@@ -1,0 +1,108 @@
+Liste em 3 (três) níveis hierárquicos todos os itens de sumário e sumarizantes do documento em anexo nessa conversa.
+
+Faça uma lista extensa com todos os assuntos que aparecem no documento em anexo nessa conversa.
+
+Faça uma enumeração hierárquica em 3 (três) níveis para cada linha da sua resposta.
+Comece cada linha com a indicação numérica e hierárquica de cada item da lista na sua resposta.
+Não coloque linhas em branco na sua resposta. Não coloque nada na resposta além da lista enumerada e hierárquica.
+Coloque um item por linha. Nunca coloque mais de um item enumerado por linha da sua resposta.
+
+
+Ou seja, a sua resposta deve ser no seguinte estilo:
+< Início do Estilo da Resposta >
+1. Item de sumário ou sumarizante.\n
+1.1. Item de sumário ou sumarizante.\n
+1.1.1. Item de sumário ou sumarizante.\n
+< Fim do Estilo da Resposta >
+
+
+Não coloque nenhuma afirmação no começo da sua resposta indicando o que você entendeu do meu comando. Forneça apenas a lista com a enumeração hierárquica de tudo que aparece no documento em anexo nessa conversa.
+
+Não coloque nenhuma pergunta ao final da sua resposta para questionar como que eu gostaria de continuar essa conversa. Forneça apenas a lista com a enumeração hierárquica de tudo que aparece no documento em anexo nessa conversa.
+
+Faça uma lista para cobrir todos os itens de sumário e sumarizantes do documento em anexo nessa conversa.
+
+Faça uma lista extensa e completa com riqueza de detalhes para cobrir todos os assuntos, temas, tópicos e todos os núcleos de conteúdo presentes no documento em anexo nessa conversa.
+
+Aja como um analista de conhecimento especializado. Analise o documento em anexo e gere um **sumário hierárquico detalhado e exaustivo** cobrindo todos os assuntos, temas e tópicos abordados no documento em anexo.
+
+Faça toda a pontuação e acentuação gramatical de cada item da lista perfeitamente corretos conforme o Português da norma-padrão.
+
+Faça uma lista extensa com riqueza de detalhes para cobrir todos os assuntos, temas, tópicos e todos os núcleos de conteúdo que aparecem no documento em anexo nessa conversa.
+
+
+**Regras Estritas de Formatação:**
+
+1. **Estrutura:** Organize o conteúdo em exatamente **3 (três) níveis hierárquicos** numéricos (Ex: 1., 1.1., 1.1.1.).
+
+2. **Conteúdo:** Liste apenas um item por linha. Não pule linhas (sem linhas em branco).
+
+3. **Saída Limpa:** Forneça **apenas** a lista formatada. Não inclua introduções, conclusões, observações ou perguntas finais.
+
+
+**Modelo de Saída Esperado:**
+1. Tópico Principal\n
+1.1. Subtópico Abrangente\n
+1.1.1. Cada Detalhe Específico Presente no Subtópico\n
+
+Agrupe os itens da lista hierárquica por afinidade semântica, reunindo os temas, assuntos e tópicos que possuem forte correlação de significado, e separe cada um desses grupos temáticos utilizando exclusivamente uma linha com os caracteres `---`.
+
+Assegure-se de que a transição entre um bloco de assuntos e o próximo bloco de assuntos distintos seja demarcada de forma clara e inconfundível, inserindo obrigatoriamente uma linha contendo apenas os caracteres `---` para dividir cada grupo por afinidade semântica.
+
+Não utilize títulos de categoria, cabeçalhos ou texto adicional para nomear ou categorizar os agrupamentos de conteúdo; a única forma permitida para dividir os itens da lista agrupados por afinidade semântica é o uso estrito de uma linha com os caracteres `---` entre um grupo e outro.
+
+Faça um agrupamento inteligente em que todos os tópicos e núcleos de conteúdo que compartilhem a mesma natureza ou campo semântico fiquem sequenciados juntos na hierarquia, dividindo estruturalmente cada nova categoria de afinidade semântica gerada com uma linha contendo os caracteres `---`.
+
+Para cada alteração significativa de contexto ou de área de conhecimento na sua extração de itens, isole o novo conjunto agrupado por afinidade semântica inserindo obrigatoriamente uma quebra visual formada estritamente por uma linha com os caracteres `---`.
+
+O resultado final da sua extração deve ser uma lista hierárquica em 3 (três) níveis, porém rigidamente segmentada em blocos de afinidade semântica, onde cada agrupamento de significado é separado do anterior e do posterior única e exclusivamente por uma linha isolada contendo os caracteres `---`.
+
+A formatação da sua resposta deve obedecer incondicionalmente à estrutura de exatamente 3 (três) níveis hierárquicos numéricos, garantindo que nenhum item extraído seja apresentado fora do padrão algarítmico composto por categorias, subcategorias e detalhes específicos.
+
+Você está estritamente proibido de inserir mais de um item enumerado na mesma linha e de incluir linhas em branco entre os itens de um mesmo grupo semântico, devendo apresentar cada elemento sumarizante em uma linha contínua, isolada e exclusiva.
+
+Sob nenhuma circunstância inicie ou finalize a sua resposta com saudações, explicações de contexto, resumos do que foi executado, confirmações de entendimento ou perguntas de engajamento; forneça única e exclusivamente a lista hierárquica nua e formatada.
+
+Cada linha gerada na sua resposta deve, obrigatoriamente, começar com o indicador numérico e hierárquico correspondente ao nível do item abordado, seguido do texto do sumarizante, proibindo-se terminantemente a utilização de marcadores visuais adicionais como bullets, travessões ou asteriscos.
+
+Faça com que cada linha da sua resposta formatada seja autossuficiente em clareza, terminando com a pontuação adequada e obedecendo rigorosamente às regras de acentuação, ortografia e sintaxe da norma-padrão da língua portuguesa, garantindo um resultado textualmente impecável.
+
+A integridade visual do modelo de saída esperado é absoluta; portanto, a sua resposta final deve ser um bloco de texto puramente estruturado, contendo zero caracteres ou palavras que não façam parte estrita da própria enumeração hierárquica e dos separadores de agrupamento semântico.
+
+A formatação da sua resposta deve obedecer incondicionalmente à estrutura de exatamente 3 (três) níveis hierárquicos numéricos, garantindo que nenhum item extraído seja apresentado fora do padrão algarítmico composto por categorias, subcategorias e detalhes específicos.
+
+Você está estritamente proibido de inserir mais de um item enumerado na mesma linha e de incluir linhas em branco entre os itens de um mesmo grupo semântico, devendo apresentar cada elemento sumarizante em uma linha contínua, isolada e exclusiva.
+
+Sob nenhuma circunstância inicie ou finalize a sua resposta com saudações, explicações de contexto, resumos do que foi executado, confirmações de entendimento ou perguntas de engajamento; forneça única e exclusivamente a lista hierárquica nua e formatada.
+
+Cada linha gerada na sua resposta deve, obrigatoriamente, começar com o indicador numérico e hierárquico correspondente ao nível do item abordado, seguido do texto do sumarizante, proibindo-se terminantemente a utilização de marcadores visuais adicionais como bullets, travessões ou asteriscos.
+
+Faça com que cada linha da sua resposta formatada seja autossuficiente em clareza, terminando com a pontuação adequada e obedecendo rigorosamente às regras de acentuação, ortografia e sintaxe da norma-padrão da língua portuguesa, garantindo um resultado textualmente impecável.
+
+A integridade visual do modelo de saída esperado é absoluta; portanto, a sua resposta final deve ser um bloco de texto puramente estruturado, contendo zero caracteres ou palavras que não façam parte estrita da própria enumeração hierárquica e dos separadores de agrupamento semântico.
+
+Faça uma varredura completa e implacável em todo o documento em anexo, garantindo que absolutamente nenhum assunto, tema, tópico ou núcleo de conteúdo seja deixado de fora da sua extração. A sua lista hierárquica deve ser exaustiva e integral, capturando cada nuance e informação presente no texto original com a máxima fidelidade.
+
+Estruture essa lista de forma que a totalidade do conteúdo do arquivo anexado seja mapeada de ponta a ponta, ramificando o conhecimento desde os conceitos mais abrangentes no primeiro nível até os elementos mais granulares e específicos no terceiro nível hierárquico. É estritamente obrigatório que a amplitude da sua resposta contemple a extensão exata e completa de todo o documento fornecido.
+
+Você está terminantemente proibido de realizar resumos genéricos que resultem em perda de dados, condensações superficiais ou na omissão de partes do texto original. A sua função é assegurar que cada argumento, explicação e dado pertinente do documento em anexo seja rigorosamente capturado, categorizado e devidamente listado dentro da estrutura de enumeração hierárquica exigida.
+
+Aqui estão os 6 parágrafos reescritos para induzir a formação de agrupamentos semânticos **extremamente pequenos e granulares**, mantendo o mesmo tom imperativo, restritivo e exaustivo que caracteriza a sua engenharia de prompt:
+
+Agrupe os itens da lista hierárquica por afinidade semântica, reunindo os temas, assuntos e tópicos que possuem fortíssima e restrita correlação de significado, garantindo obrigatoriamente que cada grupo formado seja extremamente pequeno, atômico e altamente focado, separando-os exclusivamente com uma linha contendo apenas os caracteres `---`.
+
+Você está terminantemente proibido de criar agrupamentos semânticos extensos, genéricos ou com excesso de itens enumerados. É estritamente obrigatório fragmentar o conhecimento ao máximo, de modo que cada bloco temático dividido pela linha `---` contenha um número reduzidíssimo de elementos hierárquicos, forçando o isolamento absoluto de assuntos altamente específicos.
+
+Caso identifique um agrupamento que comece a acumular uma quantidade moderada de itens sumarizantes ou que englobe mais de um microcontexto, você deve obrigatoriamente dividi-lo e fragmentá-lo em grupos semânticos ainda menores e mais independentes, inserindo entre eles a quebra visual formada estritamente por uma linha com os caracteres `---`.
+
+Faça um agrupamento inteligente em que todos os tópicos e núcleos de conteúdo formem blocos curtos, exíguos e estritamente pontuais de conhecimento. A transição estrutural entre esses blocos microscópicos, que devem cumprir a exigência rigorosa de tamanho mínimo reduzido, deve ser demarcada de forma clara e inconfundível apenas com a inserção de uma linha contendo os caracteres `---`.
+
+Não utilize títulos de categoria, cabeçalhos ou qualquer texto descritivo para nomear esses agrupamentos hiperfocados e granulares. A única forma autorizada para segmentar esses conjuntos minúsculos de itens — que devem impreterivelmente respeitar um limite restrito de linhas hierárquicas por bloco — é o uso estrito de uma linha com os caracteres `---` entre um micrógrupo e outro.
+
+O resultado final da sua extração deve ser uma lista hierárquica em 3 (três) níveis, rigidamente segmentada em blocos de afinidade semântica minúsculos, onde cada agrupamento reduzido de significados é separado do anterior e do posterior única e exclusivamente por uma linha isolada contendo os caracteres `---`.
+
+A numeração de cada item deve seguir implacavelmente o padrão de 3 (três) níveis hierárquicos, formatados exclusivamente com algarismos arábicos e pontos separadores exatos, no modelo "1.", "1.1." e "1.1.1.". Você está terminantemente proibido de utilizar marcadores em formato de texto, letras, numerais romanos, hifens, asteriscos, espaços indentados ou qualquer outra representação visual ou tipográfica que desvie dessa numeração estrita e algorítmica para estruturar a hierarquia da sua resposta.
+
+Cada linha da sua resposta formatada deve abrigar única e exclusivamente o seu respectivo identificador numérico, seguido de um único espaço em branco, o texto sumarizante correspondente e a pontuação final adequada. Não insira quebras de linha ou parágrafos dentro de um mesmo item, não agrupe mais de um item na mesma linha e assegure-se de que a listagem se mantenha visualmente asséptica, onde cada elemento comece e termine na sua própria linha de forma absoluta e independente.
+
+Faça uma lista extensa com riqueza de detalhes para cobrir todos os assuntos, temas, tópicos e todos os núcleos de conteúdo que constam no documento em anexo nessa conversa.

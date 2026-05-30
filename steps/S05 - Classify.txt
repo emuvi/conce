@@ -1,0 +1,95 @@
+Vamos criar um sistema de classificação para cada um dos grupos semióticos abaixo separados por `---` que foram extraídos conforme o documento em anexo nessa conversa.
+
+Sugira uma classificação que consiga sintetizar todo o significado de cada um dos grupos semânticos de assuntos abaixo separados por `---` que foram identificados conforme o documento em anexo nessa conversa.
+
+Cada classificação sugerida deve apresentar quatro níveis hierárquicos, cada nível hierárquico deve ir do mais abrangente ou abstrato para o mais específico ou concreto.
+
+Inicie cada nível hierárquico de classificação com o carácter `-`.
+
+O primeiro nível hierárquico deve ser implacavelmente definido pela adoção de apenas um único classificador dentre as seguintes opções exclusivas: Acadêmico / Profissional, Fundamento / Aplicação, Teórico / Prático, Macro / Micro, Estático / Dinâmico, Subjetivo / Objetivo, Analítico / Sintético, Descritivo / Normativo, Estratégico / Operacional, Interno / Externo, Lógico / Físico ou Natural / Cultural.
+
+# Estilos, Modelos e Exemplos de Classificação
+Sugira cada classificação para cada um dos grupos semióticos de assuntos abaixo separados por `---` conforme os seguintes estilos, modelos e exemplos de classificação:
+< INSERT 1 >
+
+É estritamente obrigatório utilizar as classificações já listadas na seção '# Estilos, Modelos e Exemplos de Classificação' sempre que elas forem pertinentes e adequadas ao grupo de assuntos analisado. Não crie ou invente novos títulos de classificação se o tema do bloco já estiver contemplado com exatidão por um dos exemplos fornecidos; nesses casos, simplesmente copie e aplique a estrutura da classificação existente.
+
+Antes de gerar uma nova classificação para qualquer grupo, consulte primeiramente a lista de '# Estilos, Modelos e Exemplos de Classificação'. Se você identificar uma taxonomia nessa lista que se encaixe perfeitamente no grupo semântico em análise, você deve assumi-la como a resposta definitiva para aquele grupo. A criação de classificações inéditas só é autorizada quando rigorosamente nenhum dos exemplos fornecidos for semanticamente aplicável ao assunto.
+
+Trate os itens da seção '# Estilos, Modelos e Exemplos de Classificação' como um vocabulário controlado prioritário. Sempre que houver correspondência temática ou semântica entre o assunto abordado no grupo e um dos exemplos fornecidos nessa lista, você deve, impreterivelmente, adotar a classificação exata do exemplo. O reaproveitamento integral dessas estruturas listadas tem precedência e prioridade absoluta sobre a geração de taxonomias novas.
+
+Quando for estritamente necessário criar uma nova classificação que não conste na lista de '# Estilos, Modelos e Exemplos de Classificação', você deve garantir que ela siga rigorosamente o mesmo padrão estrutural, tom e nível de abstração dos exemplos fornecidos. As novas taxonomias devem mimetizar a nomenclatura técnica e a cadência de especificidade dos exemplos, parecendo pertencer nativamente ao mesmo ecossistema classificatório e mantendo a coerência estilística ininterrupta.
+
+Para as situações em que o assunto exigir a formulação de uma taxonomia totalmente nova, extraia a lógica subjacente do modelo classificatório apresentado na seção '# Estilos, Modelos e Exemplos de Classificação'. Suas novas criações devem espelhar a mesma proporção de abrangência temática nos Níveis 1 e 2, e a mesma granularidade acadêmica ou funcional nos Níveis 3 e 4, garantindo uniformidade ontológica e taxonômica em todo o sistema gerado.
+
+Utilize o conjunto da lista '# Estilos, Modelos e Exemplos de Classificação' como um gabarito de orientação classificatória obrigatório para qualquer nova criação. Toda classificação inédita sugerida deve adotar idêntica matriz de pensamento, utilizando o mesmo peso semântico na escolha das palavras e a mesma transição lógica do conceito mais abrangente para o mais restrito, de modo que seja impossível distinguir as categorias pré-existentes das categorias recém-geradas.
+
+
+Cada classificação sugerida deve começar com `[[` e terminar com `]]`.
+
+Para cada título de classificação sugerido, o segundo nível hierárquico de classificação pode ter até 25 caracteres. O segundo nível hierárquico de classificação não deve ter mais de 25 caracteres para cada título de classificação sugerido.
+
+Para cada título de classificação sugerido, o terceiro nível hierárquico de classificação pode ter até 50 caracteres. O terceiro nível hierárquico de classificação não deve ter mais de 50 caracteres para cada título de classificação sugerido.
+
+Para cada título de classificação sugerido, o quarto nível hierárquico de classificação pode ter até 75 caracteres. O quarto nível hierárquico de classificação não deve ter mais de 75 caracteres para cada título de classificação sugerido.
+
+
+Mas **ATENÇÃO** sugira classificações pertinentes ao documento em anexo nessa conversa para cada um dos grupos semióticos de assuntos abaixo separados por `---` e que consigam sintetizar todo o grupo de significados abaixo separados por `---`.
+
+Sugira classificações abrangentes o suficiente que consigam capturar todo o assunto que pode estar correlacionado para cada um dos grupos semióticos de assuntos abaixo separados por `---`.
+
+Siga os padrões de classificação da biblioteconomia (CDU e CDD) adaptando-os conforme os currículos de cursos, escolas, universidades, faculdades, instituições de pesquisa e escolas para concursos.
+
+Não coloque nenhuma introdução no começo da sua resposta para dizer o que você entendeu desse comando. Forneça **apenas** as classificações que consigam sintetizar cada um dos grupos semióticos de assuntos abaixo separados por `---` orientadas conforme o documento em anexo nessa conversa.
+
+Não coloque nenhuma pergunta ao final da sua resposta para questionar como que eu gostaria de continuar essa conversa. Forneça **apenas** as classificações que consigam sintetizar cada um dos grupos semióticos de assuntos abaixo separados por `---` orientadas conforme o documento em anexo nessa conversa.
+
+Não inclua introduções, conclusões, observações ou perguntas finais. Forneça **apenas** as classificações que consigam sintetizar cada um dos grupos semióticos de assuntos abaixo separados por `---` orientadas conforme o documento em anexo nessa conversa.
+
+Não coloque nenhuma citação na sua resposta. Forneça **apenas** as classificações que consigam sintetizar cada um dos grupos semióticos de assuntos abaixo separados por `---` orientadas conforme o documento em anexo nessa conversa.
+
+Cada título de classificação sugerido com os quatro níveis hierárquicos deve ter até 180 caracteres. Cada título de classificação sugerido com os quatro níveis hierárquicos não deve ter mais de 180 caracteres. Cada título de classificação deve seguir o padrão de que todas as palavras significativas em cada título deve ter a sua primeira letra em maiúsculas. As palavras menos significativas como preposições e conjunções devem ser escritas com todas as suas letras em minúsculas.
+
+Sugira as classificações que consigam sintetizar cada um dos grupos semióticos de assuntos abaixo separados por `---` orientadas conforme o documento em anexo nessa conversa.
+
+Coloque uma linha em branco entre cada título de classificação sugerido.
+
+Faça toda a pontuação e acentuação gramatical de cada item de classificação perfeitamente corretos conforme o Português da norma-padrão.
+
+Não coloque nada na sua resposta das classificações sugeridas para sintetizar cada um dos grupos semióticos de assuntos abaixo separados por `---` orientadas conforme o documento em anexo nessa conversa.
+
+Sugira classificações pertinentes que consigam sintetizar e ser suficientemente genéricas ao ponto de guardar todo o assunto possivelmente relevante e correlacionado a cada um dos grupos de significados de assuntos abaixo separados por `---` orientadas conforme o documento em anexo nessa conversa.
+
+Faça um agrupamento inteligente. Ou seja, siga essas regras de agrupamento:
+1) O primeiro nível hierárquico de cada classificação sugerida deve *SEMPRE* ser o mesmo para cada um dos grupos semânticos de assuntos abaixo separados por `---`.
+2) O segundo nível hierárquico de cada classificação sugerida deve *PREFERENCIALMENTE* ser o mesmo para cada um dos grupos semânticos de assuntos abaixo separados por `---`.
+3) O terceiro nível hierárquico de cada classificação sugerida pode, ou não, ser específico para cada um dos grupos semânticos de assuntos abaixo separados por `---`.
+4) O quarto nível hierárquico de cada classificação sugerida deve *SEMPRE* ser específico para cada um dos grupos semânticos de assuntos abaixo separados por `---`.
+
+Maximize o agrupamento dos assuntos nos três primeiros níveis hierárquicos. Crie o menor número possível de categorias distintas para o segundo e o terceiro nível, forçando a convergência de temas correlatos sob os mesmos rótulos abrangentes. Apenas o quarto nível hierárquico deve apresentar ramificações específicas e dispersas, garantindo uma taxonomia altamente coesa e unificada em sua base estrutural.
+
+Para garantir uma estruturação eficiente, consolide os assuntos identificados utilizando rigorosamente as mesmas classificações para os níveis 2 e 3 sempre que houver qualquer afinidade semântica ou de área de conhecimento. Evite ao máximo criar novos títulos para os níveis 2 e 3 se um título já existente puder abranger o tema por aproximação, limitando a especificidade, a granularidade e a dispersão dos assuntos exclusivamente ao nível 4 da classificação.
+
+Aplique uma lógica de funil rigorosa de agrupamento: consolide o máximo de blocos de assuntos sob categorias idênticas nos níveis 1, 2 e 3. Antes de sugerir um novo rótulo para o nível 2 ou 3, você deve avaliar exaustivamente se o assunto analisado não pode ser alocado em uma categoria já definida em outros blocos. O nível 4 é o único estrato hierárquico autorizado a refletir a multiplicidade fina e isolada de cada tema.
+
+É estritamente obrigatório aplicar uma lógica de funil implacável no agrupamento das classificações, forçando a convergência máxima de todos os grupos semânticos sob os mesmos rótulos abrangentes nos níveis hierárquicos 1, 2 e 3.
+
+Você está terminantemente proibido de pulverizar ou dispersar os assuntos nos níveis intermediários da taxonomia; o segundo e o terceiro níveis devem apresentar o menor número possível de categorias distintas, consolidando blocos temáticos afins de forma rigorosa e incontestável.
+
+Antes de sequer cogitar a criação de um novo título para o nível 2 ou 3, você deve realizar uma varredura exaustiva nos blocos já analisados, garantindo que o assunto atual seja categorizado em uma macroestrutura já definida sempre que houver qualquer mínima afinidade de área de conhecimento.
+
+O quarto e último nível hierárquico é o único estrato autorizado a abrigar a multiplicidade, a granularidade e a dispersão dos temas, devendo refletir a faceta fina e isolada de cada grupo semiótico sem jamais comprometer a unificação coesa da base estrutural.
+
+Assegure uma uniformidade ontológica e taxonômica absoluta em todo o sistema gerado, garantindo que assuntos distintos, porém correlatos, compartilhem a exata mesma trilha classificatória até o terceiro nível, divergindo única e exclusivamente no detalhamento específico do quarto nível.
+
+Sob nenhuma hipótese fragmente temas semelhantes em categorias de nível 2 ou 3 diferentes; o agrupamento inteligente exige que a matriz de pensamento seja idêntica, unindo o máximo de blocos separados por `---` debaixo das mesmas raízes taxonômicas para formar um ecossistema classificatório maciço e unificado.
+
+A formatação da sua resposta deve obedecer incondicionalmente à estrutura de exatamente quatro níveis hierárquicos, encapsulados obrigatoriamente de forma que cada classificação comece com `[[` e termine com `]]`. É estritamente exigido que o primeiro nível hierárquico seja implacavelmente definido entre: `Acadêmico` ou `Profissional`, `Fundamento` ou `Aplicação`, `Teórico` ou `Prático`, `Macro` ou `Micro`, `Estático` ou `Dinâmico`, `Subjetivo` ou `Objetivo`, `Analítico` ou `Sintético`, `Descritivo` ou `Normativo`, `Estratégico` ou `Operacional`, `Interno` ou `Externo`, `Lógico` ou `Físico` ou `Natural` ou `Cultural`. E deve refletir a natureza de cada um dos grupos de significados analisados.
+
+Você está terminantemente proibido de violar os limites matemáticos de extensão exigidos para a taxonomia: o segundo nível hierárquico não deve ter mais de 25 caracteres , o terceiro nível não deve ter mais de 50 caracteres, o quarto nível não deve ter mais de 75 caracteres, e o título de classificação completo sugerido não deve exceder 180 caracteres em nenhuma hipótese. Aplique de forma implacável a regra de capitalização, garantindo que todas as palavras significativas iniciem com a primeira letra em maiúsculas, enquanto as palavras menos significativas, como preposições e conjunções, devem ser redigidas com todas as suas letras inteiramente em minúsculas.
+
+A integridade visual da sua saída pressupõe uma tolerância incondicional a zero para qualquer tipo de linguagem coloquial ou conversacional; não inclua introduções, conclusões, observações ou perguntas finais. Não coloque nenhuma citação na sua resposta e forneça apenas as classificações que consigam sintetizar cada um dos grupos. Certifique-se de inserir exatamente uma linha em branco entre cada título de classificação sugerido, resultando em um bloco de dados puramente estruturados que não contenha nada além das classificações sugeridas.
+
+Sugira classificações que consigam sintetizar cada um dos grupos semânticos de assuntos abaixo separados por `---`:
+
+< INSERT 2 >

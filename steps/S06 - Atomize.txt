@@ -1,0 +1,126 @@
+Vamos realizar uma extração atômica de conhecimento focada estritamente nos TÓPICOS definidos ao final deste comando. Extraia o conhecimento conforme o documento em anexo.
+
+Cada nota atômica deve conter apenas em 1 (um) único conceito, ideia ou argumento extraído do documento em anexo.
+
+Separe cada nota atômica utilizando EXATAMENTE o separador `---`.
+
+Adote o mesmo tom de voz, vocabulário e estilo de escrita do documento anexado para gerar suas respostas.
+
+Não coloque nenhuma introdução no começo da sua resposta para dizer o que você entendeu desse comando. Forneça **apenas** a lista de notas atômicas separadas por `---`.
+
+Não coloque nenhuma pergunta ao final da sua resposta para questionar como que eu gostaria de continuar essa conversa. Forneça **apenas** a lista de notas atômicas separadas por `---`.
+
+Não inclua introduções, conclusões, observações ou perguntas finais. Forneça **apenas** a lista de notas atômicas separadas por `---`.
+
+Forneça apenas um conjunto de notas atômicas separadas por `---` que capturem todo o conjunto de conteúdos relacionados aos TÓPICOS presentes no final desse comando conforme o documento em anexo.
+
+Analise o arquivo em anexo e espelhe o seu padrão linguístico. Mantenha exatamente o mesmo nível de formalidade, estrutura de frases e jargões ao longo de toda a nossa conversa.
+
+# Instruções de Processamento
+
+1. *Análise Profunda:* Leia o documento anexo integralmente, buscando todas as nuances, argumentos, dados e conceitos relacionados aos TÓPICOS presentes no final desse comando.
+
+2. *Decomposição Atômica:* Quebre o conhecimento em "Notas Atômicas". Cada nota deve focar em UM único conceito, ideia ou argumento específico do documento em anexo. Evite notas genéricas ou longas demais especialmente NÃO faça notas que misturem múltiplos conceitos, ideias ou argumentos.
+
+3. *Didática e Detalhe:* O texto deve ser didático e detalhado, denso em informação e tecnicamente preciso. Não simplifique excessivamente; mantenha o vocabulário do documento original, explicando-o sempre que necessário para que cada nota seja autossuficiente.
+
+4. *Interconexão (Obrigatório):* Utilize a sintaxe de WikiLinks [[título da outra nota]] para conectar conceitos dentro do texto das notas. As notas devem conversar entre si e com todas as outras já feitas nessa conversa.
+
+5. *Autossuficiência:* Cada nota deve fazer sentido sozinha, mas ganhar poder didático / explicativo / expositivo quando lida em conjunto com as outras.
+
+6. *Linguagem:* Utilize sempre a norma-padrão da língua portuguesa. Faça a acentuação e pontuação perfeitamente adequada. Inclusive nos nome das tags aplique a acentuação correta da língua portuguesa.
+
+7. *Nomenclatura:* Cada título de cada nota deve ser autossuficiente, ou seja, ele deve ser completo em sentido e expressar tudo que cada nota contém de conteúdo. Cada título deve explicitar o conteúdo específico de cada nota, mais o assunto genérico, mas o assunto específico ao qual a nota está relacionada. Cada título pode ter até 180 caracteres. O título *NÃO* deve estar entre colchetes. O título *NÃO* deve começar com artigo. O título deve começar com um substantivo. A primeira letra do título deve ser minúscula. Cada título não pode ter mais de 180 caracteres. O título de cada nota deve ser exclusivamente escrito em letras minúsculas, apenas as SIGLAS devem ser escritas em letras maiúsculas.
+
+8. *Variedade:* Faça uma composição vasta com muitas notas atômicas que exponham com riqueza de detalhes todo o assunto relacionado aos TÓPICOS presentes no final desse comando conforme o documento em anexo. Produza uma grande quantidade de notas atômicas para abordar profundamente os TÓPICOS presentes no final desse comando conforme o documento em anexo.
+
+9. *Precisão:* Não invente nada. Utilize somente as informações e o conteúdo do documento em anexo. Cada link / vínculo no formato de citação entre colchetes `[[link]]` deve ser *EXATAMENTE* o título de outra nota atômica já produzida por você nessa conversa.
+
+10. *Citação:* Sempre que uma referência for citada, faça a citação completa e atômica de maneira que a citação seja também autossuficiente. Faça citações somente pertinentes ao documento em anexo nessa conversa. Faça citações claras e precisas. Faça todas as citações autossuficientes.
+
+11. *Vinculação (Obrigatório):* Garanta a interconectividade semântica máxima, exigindo que cada nota atômica contenha ao menos um link no formato [[título exato da outra nota]] ligando-a exclusivamente a outras notas já geradas. Não faça links / referências / citações diferentes às notas já geradas ou presentes no documento em anexo nessa conversa.
+
+12. *Inteligência:* Construa um ecossistema de conhecimento por meio de vinculações semânticas e lógicas entre as notas atômicas, utilizando respostas de interações anteriores para criar uma explicação clara e integrada que conecte o tema atual a todas as outras notas relevantes já geradas.
+
+13. Validação de Integridade dos Links: É terminantemente proibido criar links para notas fantasmas ou não geradas. Todo e qualquer link inserido no formato [[título da outra nota]] deve passar por uma validação estrita: o texto dentro dos colchetes duplos deve ser uma cópia exata, caractere por caractere, de um título de nota atômica que você efetivamente redigiu e incluiu no conjunto final nesta conversa. Se a nota de destino não existir nessa conversa, não crie o link.
+
+14. Limite Estrito de Extensão: Cada nota atômica deve ser rigorosamente pequena e concisa, contendo apenas a quantidade de texto estritamente necessária para explicar o seu conceito central. Considere que uma nota atômica ideal é um bloco de informação de leitura rápida; se a explicação demandar múltiplos parágrafos extensos, este é o sinal claro de que o conteúdo não é mais atômico e deve ser imediatamente interrompido e repensado.
+
+15. Regra de Fragmentação Categórica: É terminantemente proibido agrupar desdobramentos, listas complexas ou múltiplos exemplos dentro da mesma nota. Se um conceito se ramificar em subtópicos ou requerer a explicação de suas partes componentes, fragmente-o imediatamente. Crie uma nota principal concisa e divida cada subponto em novas notas atômicas separadas, independentes e menores.
+
+16. Autossuficiência Contextual e Vinculativa: Ao fragmentar uma nota grande em várias menores, garanta que cada nova nota gerada mantenha a sua autossuficiência contextual plena. O leitor jamais deve precisar ler a nota anterior para entender a atual. Utilize os links [[título da outra nota]] estruturalmente para conectar as partes fragmentadas de volta ao conceito-raiz, criando uma teia de notas curtas em vez de um único texto longo.
+
+
+Assuma que você é o autor do documento em anexo. Ao me responder, replique a mesma forma de escrever do texto, garantindo que a identidade e o tom do texto original sejam mantidos.
+
+
+# Formato de Saída (Estrito)
+Para cada nota gerada, utilize EXATAMENTE a seguinte estrutura (Markdown):
+
+---
+
+título completo, claro e declarativo
+
+Escreva aqui o conteúdo da nota atômica com riqueza de detalhes, usando definições, argumentos e evidências encontradas no documento em anexo. Insira links para as outras notas atômicas que você está criou durante toda essa conversa usando o formato [[título da outra nota atômica]] sempre que houver uma relação semântica ou de interesse. Escreva em estilo claro e didático. Coloque em negrito o termo mais importante de cada nota. Coloque em itálico o segundo e o terceiro termos mais importantes de cada nota.
+
+*Tags:* #{{classificação_específica_da_parte_do_tema_alvo_abordado_em_cada_nota}} #{{micro_classificação_genérica_do_assunto_abordado_de_cada_nota}} #{{macro_classificação_geral_do_assunto_do_documento_em_anexo}}
+
+---
+
+
+# Sistema de Indexação por Tags em Cada Nota Atômica
+
+Crie um sistema de indexação hierárquica que organiza o conhecimento em três níveis crescentes de abrangência, partindo do detalhe específico do conteúdo de cada nota atômica, passando por uma categoria intermediária, até alcançar o tema global do documento de origem em anexo.
+
+#{{classificação_específica_da_parte_do_tema_alvo_abordado_em_cada_nota}}
+Classificação Específica: Identifica o detalhe preciso, o dado exclusivo ou o subtema particular que está sendo isolado e tratado unicamente dentro daquela nota.
+
+#{{micro_classificação_genérica_do_assunto_abordado_de_cada_nota}}
+Micro Classificação Genérica: Estabelece uma categoria intermediária ou temática comum que conecta esta nota a outros conceitos afins (como se fosse o título de um capítulo).
+
+#{{macro_classificação_geral_do_assunto_do_documento_em_anexo}}
+Macro Classificação Geral: Define o contexto global, a grande disciplina ou o assunto do documento original de onde toda a informação foi extraída.
+
+*IMPORTANTE:* Todas as tags devem ser escritas com todas as suas letras minúsculas. Todas as tags devem ser acentuadas conforme o Português da norma-padrão. Faça a acentuação de todas as #tags de acordo com a norma-padrão do Português.
+
+
+# Conjunto de Notas Atômicas
+
+Cada título de cada nota atômica deve ser autossuficiente em sentido, iniciando obrigatoriamente por substantivos (sem artigos), escritos em minúsculas — exceto por SIGLAS — e limitados ao máximo de 180 caracteres.
+
+Produza as notas atômicas em português claro e didático, denso em informação tecnicamente preciso, com um conjunto de notas atômicas organizadas do abstrato ao concreto, do genérico ao específico, utilizando obrigatoriamente negrito para o termo principal, itálico para o segundo e terceiro mais importantes, e conexões semânticas entre as notas através de links no formato [[título da outra nota]].
+
+O objetivo é gerar um conjunto exaustivo de notas atômicas interconectadas sobre um tema alvo, organizadas em uma estrutura lógica que parte dos conceitos mais abstratos e genéricos até alcançar o nível mais profundo de detalhamento com cada ponto específico presente no documento, utilizando `---` como único separador e omitindo qualquer introdução ou conclusão.
+
+Para alcançar esse nível profundo de detalhamento sem comprometer a atomicidade, limite rigorosamente o escopo e o tamanho físico de cada nota. Se, durante a elaboração, você perceber que uma nota exige múltiplos parágrafos, desdobramentos complexos ou listas extensas para ser explicada, interrompa imediatamente a sua construção. O excesso de volume textual é o indicador absoluto de que a nota perdeu o seu caráter atômico e passou a abrigar múltiplos conceitos concorrentes.
+
+Diante de qualquer conceito multifacetado, aplique a regra de fragmentação compulsória. Em vez de consolidar diversas características, fases, exemplos ou argumentos em um único grande bloco de texto, isole cada um desses elementos estruturais em sua própria nota atômica independente. Aprofunde o detalhamento do documento criando notas-satélites menores, mais precisas e mais curtas, garantindo que o foco narrativo permaneça absolutamente restrito a uma única faceta da informação por vez.
+
+Nesse processo de subdivisão exaustiva, preserve incondicionalmente a autossuficiência contextual de cada fragmento gerado. Mesmo sendo uma fração de um conceito maior resultante da divisão, a nota deve ser redigida de forma que seu conteúdo seja perfeitamente compreensível e útil de maneira isolada, sem jamais exigir a leitura prévia de notas adjacentes. Utilize o sistema de links [[título da outra nota]] como a única ferramenta para ancorar essas notas específicas e curtas de volta aos conceitos genéricos e abstratos, formando uma rede semântica altamente granular.
+
+
+Para o sistema de indexação por Tags, utilize três níveis hierárquicos ao final de cada nota:
+
+1. #classificação_específica_da_nota: O detalhe preciso ou subtema tratado unicamente em cada nota.
+
+2. #micro_classificação_genérica: A categoria intermediária ou temática comum (como um capítulo).
+
+3. #macro_classificação_geral: O contexto global ou disciplina do documento original.
+
+Todas as tags devem ser escritas com letras minúsculas e com acentuação correta.
+
+
+Não coloque nenhuma introdução no começo da sua resposta. Forneça **apenas** a lista de notas atômicas separadas por `---`.
+
+Não coloque nenhuma pergunta ao final da sua resposta. Forneça **apenas** a lista de notas atômicas separadas por `---`.
+
+Não inclua introduções, conclusões, observações ou perguntas finais. Forneça **apenas** a lista de notas atômicas separadas por `---`.
+
+O objetivo é processar um documento anexo para gerar um conjunto exaustivo, detalhado e preciso de notas atômicas interconectadas sobre um tema alvo, garantindo que todo o conteúdo relevante seja transformado em anotações vinculadas entre si.
+
+Faça toda a pontuação e acentuação gramatical de cada nota atômica perfeitamente corretas conforme o Português da norma-padrão.
+Utilize uma pontuação clara e bem pausada que garanta uma leitura fácil e tranquila.
+
+# Gere um conjunto extenso e completo de notas atômicas interconectadas que cubram com profundidade e conforme o documento em anexo todos os seguintes TÓPICOS:
+
+< INSERT >

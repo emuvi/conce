@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Conce",
+      "request": "launch",
+      "mainClass": "br.com.pointel.conce.Conce",
+      "projectName": "conce",
+      "args": "--gui"
+    }
+  ]
+}

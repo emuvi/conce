@@ -1,0 +1,92 @@
+Dentro do contexto do documento em anexo nessa conversa vamos montar uma base de conhecimento.
+Vamos tratar os TÓPICOS sob análise conforme requisitado ao final dessa requisição.
+
+A resposta deve começar com 1 (um) título.
+O título não deve ter mais de 120 caracteres.
+Faça um título conciso que capture toda a essência da redação / dissertação.
+O título deve começar com os caracteres `♣ `.
+O título deve capturar toda a essência de cada um dos elementos sob análise.
+Deixe uma linha em branco após o título e entre cada parágrafo. 
+
+Adote o mesmo tom de voz, vocabulário e estilo de escrita do documento anexado para gerar suas respostas.
+
+Faça uma composição extensa com muitos parágrafos e riqueza de detalhes que cubram todos os TÓPICOS sob análise conforme requisitado ao final desse comando. Extraia todas as informações pertinentes do documento em anexo nessa conversa.
+
+Utilize o estilo de redação didático, com recursos mnemônicos, para estudos tanto para concursos públicos quanto para exames de vestibulares.
+Faça um parágrafo de introdução apresentando o contexto e o assunto.
+Faça diversos parágrafos explicando cada um dos pontos pertinentes a todos os TÓPICOS sob análise conforme o documento em anexo nessa conversa.
+Faça um parágrafo de conclusão resumindo tudo que foi explicado.
+
+Faça uma redação extensa com um grande número de parágrafos tratando todos os pontos pertinentes a todos os TÓPICOS sob análise conforme requisitado e conforme o documento em anexo nessa conversa.
+
+Assegure a coesão e a coerência textual empregando um rico repertório de conectivos e operadores argumentativos entre as frases e na transição entre os parágrafos. A progressão temática deve ser fluida e lógica, sem rupturas bruscas, de modo que cada novo parágrafo de desenvolvimento se conecte naturalmente ao raciocínio estabelecido no parágrafo anterior.
+
+Elabore uma análise exaustiva e detalhada do documento em anexo. O texto deve ser extenso, estruturado em múltiplos parágrafos e cobrir integralmente todos os pontos pertinentes de todos os TÓPICOS sob análise conforme requisitado e conforme o documento em anexo nessa conversa.
+
+Analise o arquivo em anexo e espelhe o seu padrão linguístico. Mantenha exatamente o mesmo nível de formalidade, estrutura de frases e jargões ao longo de toda a nossa conversa.
+
+Desenvolva uma dissertação aprofundada com base no documento anexado e exclusivamente sobre os TÓPICOS requisitados ao final desse comando. Certifique-se de examinar minuciosamente todos os pontos pertinentes de todos os TÓPICOS sob análise conforme requisitado e conforme o documento em anexo nessa conversa, articulando todas as informações relevantes em uma estrutura textual ampla, completa e bem fundamentada.
+
+Escreva um texto abrangente e longo, abordando ponto a ponto todos os pontos pertinentes de todos os TÓPICOS sob análise conforme requisitado e conforme o documento em anexo nessa conversa. A resposta deve ser detalhada e não deve omitir nenhuma informação presente no documento em anexo.
+
+Não coloque nada além do título e dos parágrafos na sua resposta.
+Não coloque nenhum link (vínculo) para referências na sua resposta. 
+Não coloque nenhuma referência a fontes na sua resposta.
+Não coloque nenhuma formatação de estilo na sua resposta.
+Não coloque nada além do título e do artigo.
+Não coloque nenhuma pergunta ao final da sua resposta para questionar como que eu gostaria de continuar essa conversa.
+O título deve ter até 120 caracteres.
+Faça um título conciso que capture toda a essência da redação / dissertação.
+O título deve começar com os caracteres `♣ `.
+
+Faça toda a pontuação e acentuação gramatical de cada parágrafo da dissertação perfeitamente corretos conforme o Português da norma-padrão.
+Utilize uma pontuação clara e bem pausada que garanta uma leitura fácil e tranquila.
+
+Assuma que você é o autor do documento em anexo. Ao me responder, replique a mesma forma de escrever do texto, garantindo que a identidade e o tom do texto original sejam mantidos.
+
+Inicie a dissertação com um parágrafo de introdução estratégico que contextualize imediatamente o tema central com base no documento fornecido. Em seguida, apresente de forma clara a tese ou a premissa principal que será explorada. Finalize esta introdução delineando brevemente os principais tópicos que serão desenvolvidos nos parágrafos seguintes, criando uma espécie de roteiro de leitura claro e objetivo que guie a compreensão estrutural do texto.
+
+Estruture cada parágrafo de desenvolvimento iniciando com um 'tópico frasal' claro, que apresente a ideia central a ser abordada. Em seguida, desdobre essa ideia com explicações detalhadas, contextualizações e sínteses extraídas exclusivamente do documento anexo. Finalize cada parágrafo com um breve fecho conclusivo daquela ideia antes de avançar para o próximo ponto.
+
+Elabore um parágrafo de conclusão que funcione como uma síntese de alto valor informacional, perfeitamente autossuficiente. Retome a tese central e os principais argumentos desenvolvidos ao longo do texto de forma concisa e integrada. A conclusão deve encapsular o núcleo do conhecimento extraído do documento, consolidando o aprendizado sem inserir em nenhuma hipótese informações, opiniões ou conceitos novos que não tenham sido previamente discutidos no desenvolvimento.
+
+Empregue analogias precisas e metáforas do cotidiano para traduzir conceitos abstratos, técnicos ou demasiadamente teóricos em representações mentais concretas. Ao deparar-se com teorias complexas ou regras intrincadas presentes no texto, construa paralelos lúcidos com situações práticas e rotineiras, permitindo que o leitor compreenda a essência e a lógica subjacente do assunto, transcendendo a mera memorização mecânica.
+
+Para blindar o estudante contra as armadilhas comuns das bancas examinadoras, incorpore um elemento de contraste explícito sempre que houver conceitos semelhantes, ramificações ou exceções à regra. Estruture essa explicação discernindo diretamente o termo principal das confusões mais frequentes, utilizando o recurso de alerta, destacando as minúcias e as palavras-chave exatas que diferenciam a norma geral de suas derrogações, garantindo assim uma compreensão cristalina e à prova de confusões.
+
+Para a memorização de processos estruturados, trâmites legais ou sequências de causa e efeito, desenvolva breves narrativas de encadeamento lógico. Em vez de apresentar uma sucessão árida de fatos isolados, construa um fluxo contínuo onde a consequência de um evento sirva de gatilho natural e indelével para a compreensão da etapa seguinte. Utilize palavras de transição marcantes que evidenciem essa progressão, costurando os elementos em uma trilha mental coesa, sequencial e fluida que o estudante possa repassar internamente com extrema facilidade.
+
+Ao finalizar a explanação de cada núcleo temático de alta densidade, institua uma "regra de ouro" ou um "gatilho de revisão" expresso em uma única máxima de impacto. Essa sentença conclusiva deve atuar como uma âncora cognitiva, condensando a premissa fundamental daquele ponto sob análise, preferencialmente estruturada de forma ritmada ou com uso de aliterações, servindo como um recurso de resgate rápido na memória durante a resolução de questões ou exames.
+
+
+Todas as siglas mnemônicas que você sugerir utilize o padrão A.B.C. ou seja, todas as siglas mnemônicas devem ter todas as letras em maiúsculas com cada letra separada por ponto `.`.
+
+
+Atue como um professor especialista em recursos mnemônicos. Explique cada conceito, informação ou núcleo semântico requisitado ao final desse comando, selecionando entres os 8 elementos a seguir aqueles que melhor funcionem didaticamente perante o conteúdo do documento em anexo nessa conversa:
+
+1. Definição Técnica (Rigor): Explique de maneira técnica, utilizando a terminologia específica e o jargão pertinente ao campo de estudo, garantindo precisão e rigor acadêmico.
+
+2. Raiz Etimológica (O DNA da palavra): Apresente a origem da palavra (grego, latim, etc.) e o seu significado literal. Entender a raiz ajuda a decodificar o conceito antes mesmo de estudá-lo.
+
+3. Tradução Simplificada e Metáfora (Acessibilidade): Explique o conceito como se estivesse falando com um iniciante. Utilize uma linguagem coloquial e, obrigatoriamente, crie uma metáfora visual forte ou uma analogia com uma situação do cotidiano.
+
+4. Contraste Comparativo (Limites do Conceito): Estabeleça paralelos com temas correlatos. Destaque: 'É parecido com X, mas a diferença fundamental é Y'. Inclua uma nota de 'Atenção' apontando o erro ou confusão mais comum que os estudantes cometem sobre esse tema.
+
+5. Engenharia Mnemônica (Retenção Rápida): Crie um recurso de memorização de alto impacto. Pode ser um acrônimo, uma frase de efeito, ou uma associação pelo 'Efeito de Bizarrice' (uma imagem mental absurda, engraçada ou exagerada, pois o cérebro retém o inusitado com mais facilidade).
+
+6. Mapa Mental em Texto (Visualização): Descreva estruturalmente como esse conceito seria desenhado em um esquema visual (ex: 'Imagine uma árvore onde a raiz é X, o tronco é Y e as folhas são Z' ou 'Visualize um fluxograma de 3 passos: A -> B -> C').
+
+7. Aplicação Prática (Contexto): Dê um exemplo curto, direto e realista de como ou onde esse conceito é aplicado no mercado de trabalho ou no mundo real.
+
+8. Pergunta de Fixação (Active Recall): Encerre com uma pergunta de múltipla escolha ou de verdadeiro/falso, rápida e instigante, para testar se a essência do conceito foi compreendida. Forneça a resposta em formato 'gabarito invertido' ou com spoiler no final.
+
+
+Não coloque nenhuma introdução no começo da sua resposta para dizer o que você fez. Forneça **apenas** a redação sobre todos os pontos presentes no documento em anexo de todos os TÓPICOS requisitados no final desse comando.
+
+Não coloque nenhuma pergunta ao final da sua resposta para questionar como que eu gostaria de continuar essa conversa. Forneça **apenas** a redação sobre todos os pontos presentes no documento em anexo de todos os TÓPICOS requisitados no final desse comando.
+
+Não inclua introduções, conclusões, observações ou perguntas finais. Forneça **apenas** a redação sobre todos os pontos presentes no documento em anexo de todos os TÓPICOS requisitados no final desse comando.
+
+Vamos escrever um artigo detalhado extraindo os conhecimentos do documento em anexo nessa conversa. Escreva em formato de redação didática. Coloque o maior número possível de recursos mnemônicos sem perder a fluidez da prosa. Escreva uma dissertação didática para cobrir e explicar com riqueza de detalhes todo o conteúdo sob análise do documento em anexo e que são relacionados a esses TÓPICOS:
+
+< INSERT >
